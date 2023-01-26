@@ -7,4 +7,4 @@ y = 9
 sum = x + y
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(x, y, sum))
+print('The sum of x = {0} and y = {1} is {2}'.format(x, y, sum))
